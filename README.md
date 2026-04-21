@@ -1,8 +1,17 @@
-# Pathogen Genomics Bioinformatics Training
+# 🦠 Pathogen Genomics Bioinformatics Training 🦠
 
-This repository contains materials, exercises, and datasets for a hands-on training in pathogen genomics bioinformatics.
+Welcome to your origin story as a bioinformatician!
 
-Modules progress from basic Linux skills to genomic epidemiology interpretation.
+This repository contains materials, exercises, and datasets for a hands-on training in pathogen genomics—aka “how to make sense of tiny things that ruin everyone’s week.”
+
+We’ll go from:
+
+> “What is this terminal thing?”
+
+to
+
+>“Ah yes, this phylogenetic tree tells a story.”
+
 
 ---
 
@@ -18,50 +27,143 @@ Modules progress from basic Linux skills to genomic epidemiology interpretation.
 ---
 
 ## Repository Structure
-
+```
 pathogen-genomics-training/
 │
 ├── module-01-linux/
-│ ├── README.md
-│ └── dataset/
+│   ├── README.md
+│   └── dataset/
 │
 ├── module-02-ngs-qc/
-│ ├── README.md
-│ └── dataset/
+│   ├── README.md
+│   └── dataset/
 │
 ├── module-03-workflows/
-│ ├── README.md
-│ └── dataset/
+│   ├── README.md
+│   └── dataset/
 │
-├── module-04-downstream-analysis/
-│ ├── README.md
-│ └── dataset/
-│
-└── environment-files/
-├── qc-env.yml
-├── kraken-env.yml
-├── artic-env.yml
-
-
+└── module-04-downstream-analysis/
+    ├── README.md
+    └── dataset/
+```
 ---
 
 ## Software Requirements
 
 Most tools are installed using **conda**:
 
-`conda create -n bioinfo-env`
+### 1️⃣ Terminal or SSH client
 
-`conda activate bioinfo-env`
+Used to connect to the training VM.
 
-`conda config --add channels defaults`
+Participants must have access to **one** of the following:
 
-`conda config --add channels bioconda`
-
-`conda config --add channels conda-forge`
-
-
+| Operating System | Recommended Tool |
+|------------------|------------------|
+| 🐧 Linux | Terminal |
+| 🍎 Mac | Terminal |
+| 🪟 Windows | WSL, Command Prompt or PowerShell |
 
 ---
+
+### 2️⃣ Web browser
+
+Used for:
+
+* Nextclade/Nextstrain
+* Pavian visualization
+* Database access
+
+Recommended browsers:
+
+* Google Chrome
+* Brave
+* Firefox
+
+---
+
+### 3️⃣ File transfer software
+
+Used to download results from the VM to your laptop.
+
+| Operating System | Recommended Tool |
+|------------------|------------------|
+| 🪟 Windows | WinSCP |
+| 🍎 Mac | Cyberduck or FileZilla |
+| 🐧 Linux | FileZilla |
+
+Example tools:
+
+* WinSCP
+* Cyberduck
+* FileZilla
+
+---
+
+### ✔ Minimum Checklist
+
+Participants should have:
+
+* laptop 💻
+* terminal or SSH client 🔐
+* web browser 🌐
+* file transfer software 📂
+
+---
+
+## 🧠 Expected Background
+
+This training is designed for participants **familiar with bioinformatics but have no practical experience**.
+
+No prior coding experience is required.
+
+---
+
+### Biology knowledge
+
+Participants should be familiar with:
+
+* DNA and genes 🧬
+* basic concept of pathogens
+* general idea of sequencing
+
+Example questions you should feel comfortable with:
+
+* what is DNA?
+* what is a genome?
+* why do viruses mutate?
+
+---
+
+### Computer skills
+
+Participants should be comfortable with:
+
+* using a computer
+* copying and pasting commands
+* navigating folders
+* downloading files
+
+---
+
+### Helpful but NOT required
+
+* prior exposure to FASTA or FASTQ files
+* familiarity with genomics
+* basic command line experience
+
+We will guide you through everything.
+
+---
+
+## 🧘 Mindset requirements
+
+* patience
+* curiosity
+* willingness to troubleshoot
+* acceptance that errors happen
+
+> "The command line builds character."
 
 ## Expected Background
 
@@ -69,7 +171,6 @@ Participants should:
 
 * know basic molecular biology
 * be familiar with FASTA/FASTQ files
-* have terminal access (Linux, Mac, WSL/Command Prompt for windows)
 
 ---
 
