@@ -49,7 +49,7 @@ pathogen-genomics-training/
 
 Most tools are installed using **conda**:
 
-conda create -n bioinfo-env
+`conda create -n bioinfo-env`
 conda activate bioinfo-env
 
 conda config --add channels defaults
