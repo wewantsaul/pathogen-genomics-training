@@ -50,7 +50,12 @@ pathogen-genomics-training/
 
 ## Software Requirements
 
-Most tools are installed using **conda**:
+Good news: you will be provided with a **training virtual machine (VM)** where you will do all the analyses.
+
+Bad news: the command line still requires typing.
+
+Participants only need tools to **connect**, **analyze**, and **download results**.
+
 
 ### 1️⃣ Terminal or SSH client
 
@@ -66,13 +71,15 @@ Participants must have access to **one** of the following:
 
 ---
 
-### 2️⃣ Web browser
+### 2️⃣ Web browser 🌐
 
 Used for:
 
 * Nextclade/Nextstrain
 * Pavian visualization
 * Database access
+* occasional panic-Googling
+* ask AI for help 🤭
 
 Recommended browsers:
 
@@ -108,7 +115,9 @@ Participants should have:
 * terminal or SSH client 🔐
 * web browser 🌐
 * file transfer software 📂
-
+* curiosity 🧠
+* patience 🥲
+  
 ---
 
 ## 🧠 Expected Background
@@ -119,23 +128,23 @@ No prior coding experience is required.
 
 ---
 
-### Biology knowledge
+### Biology knowledge 🧬
 
 Participants should be familiar with:
 
-* DNA and genes 🧬
+* DNA and genes 
 * basic concept of pathogens
 * general idea of sequencing
 
-Example questions you should feel comfortable with:
+If you know that:
 
-* what is DNA?
-* what is a genome?
-* why do viruses mutate?
+DNA ≠ WiFi password
+
+you are ready.
 
 ---
 
-### Computer skills
+### Computer skills 💻
 
 Participants should be comfortable with:
 
@@ -143,6 +152,7 @@ Participants should be comfortable with:
 * copying and pasting commands
 * navigating folders
 * downloading files
+* not renaming files to `final_final_v3_reallyfinal.fastq`
 
 ---
 
@@ -151,34 +161,65 @@ Participants should be comfortable with:
 * prior exposure to FASTA or FASTQ files
 * familiarity with genomics
 * basic command line experience
+* emotional attachment to Linux terminals
 
-We will guide you through everything.
+We will guide you through everything step-by-step.
 
 ---
 
 ## 🧘 Mindset requirements
 
-* patience
-* curiosity
-* willingness to troubleshoot
-* acceptance that errors happen
-
-> "The command line builds character."
-
-## Expected Background
-
-Participants should:
-
-* know basic molecular biology
-* be familiar with FASTA/FASTQ files
+* accept that typos happen
+* accept that errors happen
+* accept that debugging is part of the journey
+* accept that the pipeline sometimes works only when observed
 
 ---
 
-## Learning Outcomes
+## ⚠ Mandatory requirement
 
-By the end of this training, participants should be able to:
+Must be a memer.
 
-* navigate Linux environments
-* perform QC on sequencing data
-* run pathogen genomics workflows
-* interpret phylogenetic outputs for surveillance
+Example acceptable responses to errors:
+
+> "Have you tried turning it off and on again?"
+
+> "It worked yesterday."
+
+> "Who wrote this script?"
+
+> "Oh... I forgot to activate the environment."
+
+> "Why is there a space in the filename?"
+
+> "Permission denied... but I feel permitted."
+
+---
+
+## 🧪 Bioinformatics truths
+
+* every folder contains another folder
+* every tool requires another dependency
+* every dataset has one weird sample
+* every command works after the third try
+* every pipeline produces at least one plot nobody understands at first
+
+---
+
+## ☕ survival tips
+
+* copy-paste is encouraged
+* reading error messages is a life skill
+* Google is part of the workflow
+* breaks improve reproducibility
+* hydration improves debugging accuracy
+
+---
+
+## inspirational quote
+
+> "In theory, theory and practice are the same.  
+> In practice, they are not." – every bioinformatician ever
+---
+
+You are ready 🚀
