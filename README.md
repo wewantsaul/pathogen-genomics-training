@@ -294,3 +294,45 @@ Reading these may cause:
 ---
 
 You're officially beyond the slides 🚀
+
+
+## 🏢 Hosted by
+
+<p align="center">
+  <img src="images/amtl.png" width="250"><br>
+</p>
+
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="images/ritm.png" width="200"><br>
+    </td>
+    <td align="center">
+      <img src="images/doh.png" width="200"><br>
+    </td>
+  </tr>
+</table>
+
+
+## 🤝 Supported by
+
+<p align="center">
+  <img src="images/rphl_logo.png" width="300"><br>
+</p>
+
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="images/global_fund.png" width="250"><br>
+    </td>
+    <td align="center">
+      <img src="images/mekong_institute.png" width="250"><br>
+    </td>
+  </tr>
+</table>
+
+
+
+
+
+
