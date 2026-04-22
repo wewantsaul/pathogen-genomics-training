@@ -126,7 +126,7 @@ Used to download results from the VM to your laptop.
 
 Participants should have:
 
-* laptop 💻
+* laptop 💻 (any laptop capable of running the tools listed below; no special specifications required)
 * terminal or SSH client 🔐
 * web browser 🌐
 * file transfer software 📂
