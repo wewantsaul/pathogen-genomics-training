@@ -2,20 +2,26 @@
 
 Welcome to your origin story as a bioinformatician!
 
-This repository contains materials, exercises, and datasets (or links to these) for a hands-on training in pathogen genomics—aka “how to make sense of tiny things that ruin everyone’s week.”
-
-We’ll go from:
+This training will guide you from:
 
 > “What is this terminal thing?”
 
 to
 
->“Ah yes, this phylogenetic tree tells a story.”
-
+> “Ah yes, this phylogenetic tree tells a story.”
 
 ---
 
-## Training Modules
+This repository will contain:
+
+* hands-on exercises  
+* real-world datasets  
+* step-by-step workflows  
+* genomic epidemiology interpretation
+  
+---
+
+## 🧬 What to expect
 
 | Module | Topic | Skills |
 |--------|------|-------|
@@ -26,7 +32,22 @@ to
 
 ---
 
+## 🧠 Why this matters
+
+Pathogen genomics helps us:
+
+* track outbreaks  
+* understand transmission  
+* detect emerging variants  
+* support public health decisions  
+
+---
+
+> “We are basically detectives… but for genomes.”
+
+
 ## 📁 Repository Structure (Coming Soon)
+
 The training materials will be organized as follows:
 ```
 pathogen-genomics-training/
@@ -38,13 +59,13 @@ pathogen-genomics-training/
 ```
 
 Each module will contain:
-```
 * step-by-step guides
 * exercises
 * datasets (or download links)
 * expected outputs
-```
-> 🚧 This repository is currently under development. Stay tuned!
+
+
+> 🚧 This repository is currently under development. Stay tuned 👀!
 
 ---
 
@@ -122,7 +143,7 @@ Participants should have:
 
 ## 🧠 Expected Background
 
-This training is designed for participants **familiar with bioinformatics but have no practical experience**.
+This training is designed for participants **with basic knowledge of bioinformatics but limited practical experience**
 
 No prior coding experience is required.
 
