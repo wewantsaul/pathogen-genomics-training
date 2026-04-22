@@ -323,7 +323,7 @@ You're officially beyond the slides 🚀
       <img src="images/ritm.png" width="200"><br>
     </td>
     <td align="center">
-      <img src="images/doh.png" width="200"><br>
+      <img src="images/doh.png" width="165"><br>
     </td>
   </tr>
 </table>
