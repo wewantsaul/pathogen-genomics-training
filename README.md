@@ -120,12 +120,6 @@ Used to download results from the VM to your laptop.
 | 🍎 Mac | Cyberduck or FileZilla |
 | 🐧 Linux | FileZilla |
 
-Example tools:
-
-* WinSCP
-* Cyberduck
-* FileZilla
-
 ---
 
 ### ✔ Minimum Checklist
@@ -320,7 +314,7 @@ You're officially beyond the slides 🚀
 ## 🏢 Hosted by
 
 <p align="center">
-  <img src="images/amtl.png" width="250"><br>
+  <img src="images/amtl.png" width="350"><br>
 </p>
 
 <table align="center">
