@@ -306,47 +306,23 @@ Reading these may cause:
 > "The best bioinformaticians are not the ones who memorize commands,  
 > but the ones who know how to figure things out."
 
----
+<br>
 
 You're officially beyond the slides 🚀
 
 
-## 🏢 Hosted by
+---
+
+## 🌍 Partner Institutions
 
 <p align="center">
-  <img src="images/amtl.png" width="350"><br>
+  <img src="images/global_fund.png" height="100">
+  <img src="images/mekong_institute.png" height="100">
+  <img src="images/rphl_logo.png" height="100">
+  <img src="images/dmsc.png" height="100">
+  <img src="images/doh.png" height="100">
+  <img src="images/ritm.png" height="100">
 </p>
-
-<table align="center">
-  <tr>
-    <td align="center">
-      <img src="images/ritm.png" width="200"><br>
-    </td>
-    <td align="center">
-      <img src="images/doh.png" width="165"><br>
-    </td>
-  </tr>
-</table>
-
-
-## 🤝 Supported by
-
-<p align="center">
-  <img src="images/rphl_logo.png" width="300"><br>
-</p>
-
-<table align="center">
-  <tr>
-    <td align="center">
-      <img src="images/global_fund.png" width="250"><br>
-    </td>
-    <td align="center">
-      <img src="images/mekong_institute.png" width="250"><br>
-    </td>
-  </tr>
-</table>
-
-
 
 
 
