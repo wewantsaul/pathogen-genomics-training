@@ -116,9 +116,9 @@ Used to download results from the VM to your laptop.
 
 | Operating System | Recommended Tool |
 |------------------|------------------|
-| 🪟 Windows | WinSCP |
-| 🍎 Mac | Cyberduck or FileZilla |
-| 🐧 Linux | FileZilla |
+| 🪟 Windows | [WinSCP](https://winscp.net/eng/download.php) |
+| 🍎 Mac | [Cyberduck](https://cyberduck.io/download/) or [FileZilla](https://filezilla-project.org/) |
+| 🐧 Linux | [FileZilla](https://filezilla-project.org/) |
 
 ---
 
