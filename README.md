@@ -73,7 +73,7 @@ Each module will contain:
 
 Good news: you will be provided with a **training virtual machine (VM)** where you will do all the analyses.
 
-Bad news: the command line still requires typing.
+Bad news: the command line still requires typing. 😂
 
 Participants only need tools to **connect**, **analyze**, and **download results**.
 
@@ -130,8 +130,8 @@ Participants should have:
 * terminal or SSH client 🔐
 * web browser 🌐
 * file transfer software 📂
-* curiosity 🧠
-* patience 🥲
+* _curiosity_ 🧠
+* _patience_ 🥲
   
 ---
 
@@ -151,11 +151,11 @@ Participants should be familiar with:
 * basic concept of pathogens
 * general idea of sequencing
 
-If you know that:
+_If you know that:_
 
-DNA ≠ WiFi password
+_DNA ≠ WiFi password_
 
-you are ready.
+_you are ready._
 
 ---
 
@@ -167,7 +167,7 @@ Participants should be comfortable with:
 * copying and pasting commands
 * navigating folders
 * downloading files
-* not renaming files to `final_final_v3_reallyfinal.fastq`
+* _not renaming files to `final_final_v3_reallyfinal.fastq`_
 
 ---
 
@@ -176,7 +176,7 @@ Participants should be comfortable with:
 * prior exposure to FASTA or FASTQ files
 * familiarity with genomics
 * basic command line experience
-* emotional attachment to Linux terminals
+* _emotional attachment to Linux terminals_
 
 We will guide you through everything step-by-step.
 
@@ -184,57 +184,57 @@ We will guide you through everything step-by-step.
 
 ## 🧘 Mindset requirements
 
-* accept that typos happen
-* accept that errors happen
-* accept that debugging is part of the journey
-* accept that the pipeline sometimes works only when observed
+* _accept that typos happen_
+* _accept that errors happen_
+* _accept that debugging is part of the journey_
+* _accept that the pipeline sometimes works only when observed_
 
 ---
 
 ## ⚠ Mandatory requirement
 
-Must be a memer.
+_Must be a memer._
 
-Example acceptable responses to errors:
+_Example acceptable responses to errors:_
 
-> "Have you tried turning it off and on again?"
+> _"Have you tried turning it off and on again?"_
 
-> "It worked yesterday."
+> _"It worked yesterday."_
 
-> "Who wrote this script?"
+> _"Who wrote this script?"_
 
-> "Oh... I forgot to activate the environment."
+> _"Oh... I forgot to activate the environment."_
 
-> "Why is there a space in the filename?"
+> _"Why is there a space in the filename?"_
 
-> "Permission denied... but I feel permitted."
+> _"Permission denied... but I feel permitted."_
 
 ---
 
 ## 🧪 Bioinformatics truths
 
-* every folder contains another folder
-* every tool requires another dependency
-* every dataset has one weird sample
-* every command works after the third try
-* every pipeline produces at least one plot nobody understands at first
+* _every folder contains another folder_
+* _every tool requires another dependency_
+* _every dataset has one weird sample_
+* _every command works after the third try_
+* _every pipeline produces at least one plot nobody understands at first_
 
 ---
 
-## ☕ survival tips
+## ☕ _survival tips_
 
-* copy-paste is encouraged
-* reading error messages is a life skill
-* Google is part of the workflow
-* breaks improve reproducibility
-* hydration improves debugging accuracy
+* _copy-paste is encouraged_
+* _reading error messages is a life skill_
+* _Google is part of the workflow_
+* _breaks improve reproducibility_
+* _hydration improves debugging accuracy_
 
 ---
 
 ## inspirational quote
 
-> "In theory, theory and practice are the same.  
-> In practice, they are not." – every bioinformatician ever
+> _"In theory, theory and practice are the same._  
+> _In practice, they are not." – every bioinformatician ever_
 ---
 
 You are ready 🚀
@@ -245,8 +245,8 @@ You are ready 🚀
 
 For those who want to go deeper (or accidentally became the “bioinformatics person” in the lab 👀)
 
-> "Half of bioinformatics is knowing what to Google.  
-> The other half is knowing which result is correct."
+> _"Half of bioinformatics is knowing what to Google._  
+> _The other half is knowing which result is correct."_
 
 ---
 
@@ -290,21 +290,21 @@ If you're feeling curious (or brave):
 
 
 
-## ⚠️ Warning
+## ⚠️ _Warning_
 
-Reading these may cause:
+_Reading these may cause:_
 
-* sudden understanding of error messages
-* improved debugging skills
-* people asking you for help
-* you saying “it depends” more often
+* _sudden understanding of error messages_
+* _improved debugging skills_
+* _people asking you for help_
+* _you saying “it depends” more often_
 
 ---
 
 ## 🧠 Final Thought
 
-> "The best bioinformaticians are not the ones who memorize commands,  
-> but the ones who know how to figure things out."
+> _"The best bioinformaticians are not the ones who memorize commands,_  
+> _but the ones who know how to figure things out."_
 
 <br>
 
