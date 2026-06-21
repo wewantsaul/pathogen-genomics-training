@@ -1,6 +1,39 @@
 # 🦠 Pathogen Genomics Bioinformatics Training 🦠
+Github page for **Pathogen Genomics for Public Health Laboratories**
 
-Welcome to your origin story as a bioinformatician!
+Held at the Research Institute for Tropical Medicine and Acacia Hotel, Muntinlupa, Philippines
+
+On Jun. 11-15, 2026
+
+🏁 Welcome to your origin story as a bioinformatician!
+---
+> 🇧🇳 Brunei Darussalam : Selamat pagi
+
+> 🇰🇭 Cambodia : ជំរាបសួរ
+
+> 🇮🇩 Indonesia : Selamat pagi
+
+> 🇱🇦 Laos : ສະບາຍດີ
+
+> 🇲🇾 Malaysia : Selamat pagi / 你好 / காலை வணக்கம்
+
+> 🇲🇲 Myanmar : မင်္ဂလာပါ
+
+> 🇳🇵 Nepal : नमस्कार
+
+> 🇵🇰 Pakistan : السلام علیکم
+
+> 🇵🇬 Papua New Guinea : Gude / Halo / Hai / Dabai namona
+
+> 🇵🇭 Philippines : Mabuhay / Magandang araw
+
+> 🇸🇬 Singapore : Selamat pagi / 你好 / காலை வணக்கம்
+
+> 🇹🇭 Thailand : สวัสดีครับ / สวัสดีค่ะ
+
+> 🇹🇱 Timor-Leste: Bondia / Bom dia
+
+> 🇻🇳 Viet Nam: Xin chào / Chào anh / Chào chị
 
 This training will guide you from:
 
@@ -66,6 +99,19 @@ Each module will contain:
 
 
 > 🚧 This repository is currently under development. Stay tuned 👀!
+>
+To download material for module-01-linux:
+```
+cd ~
+wget --no-check-certificate https://zenodo.org/records/19903856/files/module-01-linux.zip
+unzip module-01-linux.zip
+```
+If unzip doesn't work or is not yet installed:
+```
+sudo apt install unzip
+unzip module-01-linux.zip
+```
+
 
 ---
 
@@ -88,7 +134,7 @@ Participants must have access to **one** of the following:
 |------------------|------------------|
 | 🐧 Linux | Terminal |
 | 🍎 Mac | Terminal |
-| 🪟 Windows | WSL, Command Prompt or PowerShell |
+| 🪟 Windows | [WSL2 with Ubuntu](https://learn.microsoft.com/en-us/windows/wsl/install) + Command Prompt or PowerShell |
 
 ---
 
@@ -112,7 +158,7 @@ Recommended browsers:
 
 ### 3️⃣ File transfer software
 
-Used to download results from the VM to your laptop.
+Install one of these on your laptop. Used to download results from the VM to your laptop.
 
 | Operating System | Recommended Tool |
 |------------------|------------------|
@@ -126,7 +172,7 @@ Used to download results from the VM to your laptop.
 
 Participants should have:
 
-* laptop 💻 (any laptop capable of running the tools listed below; no special specifications required)
+* laptop 💻 (any laptop capable of running the tools listed below; no special specifications required. But [WSL2 with Ubuntu](https://learn.microsoft.com/en-us/windows/wsl/install) has to be set up in advance for Windows PCs + any of the file transfer software regardless of operating system. So install and make sure they work before you attend)
 * terminal or SSH client 🔐
 * web browser 🌐
 * file transfer software 📂
@@ -188,10 +234,11 @@ We will guide you through everything step-by-step.
 * _accept that errors happen_
 * _accept that debugging is part of the journey_
 * _accept that the pipeline sometimes works only when observed_
+* _accept that one may need to ask for help from time to time, even from AI, but exercise caution_
 
 ---
 
-## ⚠ Mandatory requirement
+## ⚠ Mandatory requirements
 
 _Must be a memer._
 
@@ -215,7 +262,7 @@ _Example acceptable responses to errors:_
 
 * _every folder contains another folder_
 * _every tool requires another dependency_
-* _every dataset has one weird sample_
+* _every dataset has one weird sample, but will nevertheless take up gigabytes of space_
 * _every command works after the third try_
 * _every pipeline produces at least one plot nobody understands at first_
 
@@ -227,7 +274,7 @@ _Example acceptable responses to errors:_
 * _reading error messages is a life skill_
 * _Google is part of the workflow_
 * _breaks improve reproducibility_
-* _hydration improves debugging accuracy_
+* _hydration/caffeination improves debugging accuracy_
 
 ---
 
@@ -259,7 +306,10 @@ For those who want to go deeper (or accidentally became the “bioinformatics pe
 ## 🔹 Bonus: Learn by Breaking Things™
 
 * https://stackoverflow.com/  
-* https://chat.openai.com/ 😄  
+* https://chat.openai.com/ 😄
+* https://cmdchallenge.com/
+* https://overthewire.org/wargames/bandit
+* https://www.reddit.com/r/linuxupskillchallenge/
 
 ---
 
@@ -308,7 +358,7 @@ _Reading these may cause:_
 
 <br>
 
-You're officially beyond the slides 🚀
+🏁 You're officially beyond the slides 🚀
 
 
 ---
